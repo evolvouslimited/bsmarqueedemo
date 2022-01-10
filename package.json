@@ -1,8 +1,9 @@
 {
   "name": "@evolvouslimited/bsmarqueedemo",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "button UI for test",
-  "main": "src/index.ts",
+  "main": "src/index.js",
+  "typings": "./index.d.ts",
   "files": [
     "src/**/*"
   ],
