@@ -45,6 +45,7 @@
   "author": "evolvous",
   "license": "ISC",
   "dependencies": {
+    "@babel/runtime": "^7.16.7",
     "@types/jest": "^26.0.24"
   },
   "devDependencies": {
