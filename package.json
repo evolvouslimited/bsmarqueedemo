@@ -2,7 +2,7 @@
   "name": "@evolvouslimited/bsmarqueedemo",
   "version": "1.0.6",
   "description": "button UI for test",
-  "main": "src/index.tsx",
+  "main": "src/index.ts",
   "files": [
     "src/**/*"
   ],
