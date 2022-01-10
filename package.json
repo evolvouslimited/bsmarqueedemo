@@ -8,10 +8,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shailesh-mahto/bsmarquee.git"
+    "url": "https://github.com/evolvouslimited/bsmarqueedemo.git"
   },
   "bugs": {
-    "url": "https://github.com/shailesh-mahto/bsmarquee/issues"
+    "url": "https://github.com/evolvouslimited/bsmarqueedemo/issues"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
