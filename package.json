@@ -1,6 +1,6 @@
 {
-  "name": "@bs/button",
-  "version": "0.0.0-development",
+  "name": "@evolvouslimited/bsmarqueedemo",
+  "version": "1.0.0",
   "description": "button UI for test",
   "main": "src/index.ts",
   "files": [
@@ -13,6 +13,7 @@
   "bugs": {
     "url": "https://github.com/evolvouslimited/bsmarqueedemo/issues"
   },
+  "homepage": "https://github.com/evolvouslimited/bsmarqueedemo",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release"
@@ -29,10 +30,8 @@
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.1",
     "semantic-release": "^18.0.1"
-  },
-  "private":"false",
+  },  
   "publishConfig": {
     "access": "public"
   }
-
 }
